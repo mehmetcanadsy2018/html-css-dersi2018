@@ -1,0 +1,31 @@
+.kodadi2023{
+    
+font-size: 25px;
+ font-family: arial;
+color:blue;
+text-align: center;
+
+}
+ 
+
+.resim{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+        width:250px;  
+}
+/* bu arka plan resmi koyar html,body
+background:url(dolunay.jpg)no repeat center center fixed; background-size:cover;
+ 
+body, html{
+	background: url(dolunay.jpg) no-repeat center center fixed;
+	background-size: cover;
+
+
+}*/
+
+
+html,body{
+background-color: red !important
+
+}
